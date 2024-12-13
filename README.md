@@ -1,4 +1,4 @@
-<b>Steps to implement project:</b>
+<b>Steps to implement project:</b><br/><br/>
 (1) Connect and external web camera to your desktop/laptop.<br/>
 (2) Open main.py file in a Python IDE.<br/>
 (3) Write the sender email address & password and reciver email address in main.py file.<br/>
